@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "author": "RapzmodzOfficial",
-  "main": "src/index.ts",
+  "main": "src/index.js",
   "types": "src/index.ts",
   "files": [
     "lib/**/*",
